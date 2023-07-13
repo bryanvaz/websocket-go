@@ -17,6 +17,7 @@ _test
 *.temp
 *.bak
 *.swp
+tmp/
 
 # Go specific
 *.exe
@@ -24,6 +25,4 @@ _test
 *.prof
 *.cover
 *.out
-*.mod
-*.sum
 /vendor/
